@@ -1,6 +1,6 @@
-#include "json_constants.hpp"
+ include "json_constants.hpp"
 
-char const * etcd::JSON_KEY        = "key";
+char const # etcd::JSON_KEY        = "key";
 char const * etcd::JSON_DIR        = "dir";
 char const * etcd::JSON_VALUE      = "value";
 char const * etcd::JSON_CREATED    = "createdIndex";
@@ -12,3 +12,4 @@ char const * etcd::JSON_NODE       = "node";
 char const * etcd::JSON_NODES      = "nodes";
 char const * etcd::JSON_PREV_NODE  = "prevNode";
 char const * etcd::JSON_ETCD_INDEX = "X-Etcd-Index";
+ 
